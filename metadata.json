@@ -1,0 +1,6 @@
+{
+  "name": "InstaEarn",
+  "description": "An Instagram clone app with view-based creator earnings. Share posts, view trending content, and watch your earnings grow with every view!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
